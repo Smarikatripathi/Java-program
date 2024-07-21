@@ -1,3 +1,4 @@
+package com.example.lab3;
 import java.awt.FlowLayout;
 
 import javax.swing.*;
